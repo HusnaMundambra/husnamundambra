@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Husna Mundambra</h1>
-<h3 align="center">An independent and self -motivated undergraduate persuing Bsc Statistic.</h3>
+<h3 align="center">An independent and self -motivated post graduate persuing Msc DataScience.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnamundambra&label=Profile%20views&color=0e75b6&style=flat" alt="husnamundambra" /> </p>
 
-- 🌱 I’m currently learning **Bsc Statistcs**
+- 🌱 I’m currently learning **Msc Data Science**
 
 - 📫 How to reach me **husnaakareem@gmail.com**
 
